@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_meow",
-    "path": "sprites/spr_meow/spr_meow.yy",
+    "name": "spr_meow_particles",
+    "path": "sprites/spr_meow_particles/spr_meow_particles.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects/player.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_meow",
+  "name": "obj_meow_particle",
   "tags": [],
   "resourceType": "GMObject",
 }
