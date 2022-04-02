@@ -11,5 +11,5 @@ else if angulo < 90.00 or angulo > 270.00 {
 }
 
 if mouse_check_button_pressed(mb_left) {
-	instance_create_layer(x,y,"Instances",obj_meow)
+	instance_create_layer(x,y,"Entities",obj_meow)
 }
